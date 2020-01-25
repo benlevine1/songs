@@ -1,6 +1,6 @@
 //action creator
 
-export const selectedSong = song => {
+export const selectSong = song => {
   //return an action
   return {
     //needs type, always in caps by convention
